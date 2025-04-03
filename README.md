@@ -68,4 +68,4 @@ There are some things to consider when running the tests:
 ## Comments
 - The Manual Test Cases are located in the `AirBox Test Cases` PDF File
 - The reports are located in the `test-output` directory
-- The JIRA Defect ticket can be seen in 'JIRA_Defect_Ticket.png'
+- The JIRA Defect ticket can be seen in `JIRA_Defect_Ticket.png`
