@@ -41,7 +41,7 @@ export PATH=$JAVA_HOME/bin:$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_H
     - Go to: `More Actions` -> `Virtual Device Manager`
     - There should be a default emulator already installed. If there isn't add a new emulator and select the `API-ext17` version
 ### Running the tests
-- Clone the repository
+- Clone the repository: `git clone git@github.com:epaulins/TestNG-Java---AirBox.git`
 - Create an `.env` file in the root directory with the following environment variables:
     - `FULL_NAME:<Google Account Full Name>`
     - `EMAIL:<Google Account Email>`
