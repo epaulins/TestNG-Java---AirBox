@@ -64,3 +64,6 @@ There are some things to consider when running the tests:
 ## Possible Improvements
 - Add more Android versions/devices and refactor the tests to be compatible with them
 - Improve the flakiness of NavigationRerouting by adding a more sophisticated wait before chaning the geolocation
+## Comments
+- The Manual Test Cases are located in the `AirBox Test Cases` PDF File
+- The reports are located in the `test-output` directory
